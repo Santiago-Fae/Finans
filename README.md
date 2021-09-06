@@ -1,3 +1,3 @@
 # Finans
- Um site de finanças responsivo utilizando Bootstrap
-- Site desenvolvido no Curso de desenvolvimento Web - UDEMY
+A Responsive Finance Site Using Bootstrap
+- Site developed in the Web Development Course - UDEMY
